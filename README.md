@@ -1,0 +1,1 @@
+A basic course of python, just for academic things.
